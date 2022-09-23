@@ -1,6 +1,4 @@
-# React Tailwind Demo
-
-# Steps to Run The Project ====> Run the Following Commands in Terminal
+# Project Setup Instructions
 
 git init
 git clone https://github.com/webethics/demo-tailwind.git
